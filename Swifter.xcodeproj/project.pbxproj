@@ -14,6 +14,7 @@
 		7952E6C41C288CE7009D61C4 /* SwifterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7952E6C31C288CE7009D61C4 /* SwifterTests.swift */; };
 		7952E6CF1C288CE7009D61C4 /* SwifterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7952E6CE1C288CE7009D61C4 /* SwifterUITests.swift */; };
 		79D5C89F1C449914003E3457 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D5C89E1C449914003E3457 /* AppDelegate.swift */; };
+		79D5C8A11C4499D2003E3457 /* IndexPadVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D5C8A01C4499D2003E3457 /* IndexPadVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		7952E6CE1C288CE7009D61C4 /* SwifterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwifterUITests.swift; sourceTree = "<group>"; };
 		7952E6D01C288CE7009D61C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		79D5C89E1C449914003E3457 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		79D5C8A01C4499D2003E3457 /* IndexPadVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IndexPadVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 			isa = PBXGroup;
 			children = (
 				7952E6B01C288CE7009D61C4 /* ViewController.swift */,
+				79D5C8A01C4499D2003E3457 /* IndexPadVC.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -283,6 +286,7 @@
 			files = (
 				79D5C89F1C449914003E3457 /* AppDelegate.swift in Sources */,
 				7952E6B11C288CE7009D61C4 /* ViewController.swift in Sources */,
+				79D5C8A11C4499D2003E3457 /* IndexPadVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
